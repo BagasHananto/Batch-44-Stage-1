@@ -1,0 +1,11 @@
+Tag HTML :
+https://www.w3schools.com/tags/tag_html.asp
+
+Block Element & Inline Element
+https://www.w3schools.com/html/html_blocks.asp
+
+Padding 
+https://www.w3schools.com/css/css_padding.asp
+
+Margin :
+https://www.w3schools.com/css/css_margin.asp
